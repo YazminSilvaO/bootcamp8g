@@ -1,0 +1,32 @@
+*{
+    color: peru;
+}
+
+*p{
+    text-transform: uppercase;
+}
+
+.page-heading{
+    text-decoration: underline;
+    font-style: italic;
+
+}
+
+ul{
+    border: 1px solid black;
+    box-shadow: 4px 4px 5px gray;
+    width: 400px;
+}
+
+li{
+    list-style: none;
+    text-decoration: solid;
+    border: 2px solid red;
+}
+
+#firts{
+    text-transform: uppercase;
+    color: pink;
+}
+
+
