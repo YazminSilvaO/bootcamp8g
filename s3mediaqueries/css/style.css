@@ -1,0 +1,45 @@
+ .square{
+     width: 200px;
+     height: 200px;
+
+ }
+
+ .square.red-s{
+    background-color: red;
+ }
+
+.square.blue-s{
+    background-color: blue;
+}
+
+
+.square.black-s{
+    background-color: black;
+}
+
+
+.square.green-s{
+    background-color: green;
+}
+
+@media only screen and (min-width: 768px){
+    .square.red-s{
+        background-color: orangered;
+     }
+    
+    .square.blue-s{
+        background-color: violet;
+    }
+    
+    
+    .square.black-s{
+        background-color: white;
+    }
+    
+    
+    .square.green-s{
+        background-color: yellow;
+    }
+}
+
+
